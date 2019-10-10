@@ -13,3 +13,5 @@ Create Master Branch
 
 Git hub - every developer have copy and do it offline and check in when online, its distubuted repo. 
           also CMD, Visual Code, Git Bash
+          
+Visual Studio have feature called Git Hub Clone - which download the code from Git Hub to local ststem for development.
