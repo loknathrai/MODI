@@ -2,3 +2,11 @@ How to check in the file in VS Studio
 1. Commit 
 2. Sync
 3. Push
+
+Create Master Branch
+1. Create branch from VS Studio name development
+2. Do change to file and commit, sync and push. 
+3. Now change are only present in the development branch.
+4. Never change into master branch(production) .
+5. Now merge change form development to master.
+
