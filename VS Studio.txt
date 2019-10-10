@@ -10,3 +10,6 @@ Create Master Branch
 4. Never change into master branch(production) .
 5. Now merge change form development to master.
 
+
+Git hub - every developer have copy and do it offline and check in when online, its distubuted repo. 
+          also CMD, Visual Code, Git Bash
