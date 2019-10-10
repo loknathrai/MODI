@@ -16,4 +16,6 @@ Git hub - every developer have copy and do it offline and check in when online, 
           
 Visual Studio have feature called Git Hub Clone - which download the code from Git Hub to local ststem for development.
 
-Commit and Pull - this will tell other hey!! I have new code and please review and mearge in main branch
+Commit and Pull - this will tell other hey!! I have new code and please review and mearge in main branch, commit & pull - Other Pull - >review - Approve
+
+https://www.youtube.com/watch?v=9ITVx4VvkcI
