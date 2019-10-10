@@ -1,3 +1,4 @@
+How to check in the file in VS Studio
 1. Commit 
 2. Sync
 3. Push
