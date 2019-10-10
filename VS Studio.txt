@@ -15,3 +15,5 @@ Git hub - every developer have copy and do it offline and check in when online, 
           also CMD, Visual Code, Git Bash
           
 Visual Studio have feature called Git Hub Clone - which download the code from Git Hub to local ststem for development.
+
+Commit and Pull - this will tell other hey!! I have new code and please review and mearge in main branch
