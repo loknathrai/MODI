@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\MyHomeHub",
+    "\\MyHomeHub\\.vs",
+    "\\MyHomeHub\\.vs\\MyHomeHub",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\config",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\DesignTimeBuild",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\v16",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\v16\\Server",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\v16\\Server\\sqlite3",
+    "\\MyHomeHub\\.vs\\MyHomeHub\\v16\\TestStore"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\MyHomeHub\\.vs\\MyHomeHub\\v16\\Server\\sqlite3",
   "PreviewInSolutionExplorer": false
 }
